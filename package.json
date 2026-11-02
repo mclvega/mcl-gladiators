@@ -1,0 +1,22 @@
+{
+  "name": "mcl-gladiators",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Combates de gladiadores en 3D, tácticos y sin fin, con estamina, escudo, equipo por zonas y fervor del público.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  }
+}

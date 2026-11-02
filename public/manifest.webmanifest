@@ -1,0 +1,38 @@
+{
+  "name": "McL Gladiators",
+  "short_name": "McL Gladiators",
+  "description": "Combates de gladiadores en 3D, tácticos y sin fin: estamina, escudo, equipo por zonas y el favor del público.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "purpose": "any",
+      "type": "image/png",
+      "sizes": "192x192",
+      "src": "/icon-192.png"
+    },
+    {
+      "purpose": "any",
+      "type": "image/png",
+      "sizes": "512x512",
+      "src": "/icon-512.png"
+    },
+    {
+      "purpose": "maskable",
+      "type": "image/png",
+      "sizes": "512x512",
+      "src": "/icon-512.png"
+    },
+    {
+      "purpose": "any",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "src": "/favicon.svg"
+    }
+  ]
+}
